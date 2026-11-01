@@ -1,4 +1,4 @@
-# Bita-cora-de-proyecto-de-base-de-datos-
+# Bitacora-de-proyecto-de-base-de-datos-
 El dia de hoy decidi que voy a reaser la base de datos por que estaba orriblemente mal, de cero asi que cree 9 tablas que fueron 
 
 carta: que contiene id, partida_id, fila, columna, id_valor, esta_descubierta, esta_emparejada
